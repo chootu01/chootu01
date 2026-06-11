@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on "Building an end-to-end computer vision pipeline for real-time object detection."<br>I'm looking to collaborate on "Open-source NLP project or innovative deep learning research."<br>I'm looking for help with "Optimizing deep learning models for deployment on edge devices."<br>I'm currently learning "Advanced Generative AI models like diffusion models and reinforcement learning."<br>'Ask me about' : "Python programming, machine learning basics, or data analysis."<br>'Fun fact': "I can train an AI model faster than I can make a cup of coffee!"
+I'm currently working on "Building an end-to-end computer vision pipeline for real-time object detection."<br>I'm looking to collaborate on "Open-source NLP project or innovative deep learning research."<br>I'm looking for help with "Optimizing deep learning models for deployment on edge devices."<br>I'm currently learning "Advanced Generative AI models like diffusion models and reinforcement learning."<br> Ask me about : "Python programming, machine learning basics, or data analysis."<br>Fun fact "I can train an AI model faster than I can make a cup of coffee!"
 
 
 ## 🌐 Socials:
